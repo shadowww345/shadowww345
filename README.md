@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [AiraOS and Transformers based AI framework](https://github.com/shadowww345/AiraOS)
 
-- 🌱 I’m currently learning **Operating System Develepment**
+- 🌱 I’m currently learning **Operating System Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shadowww345](https://github.com/shadowww345)
 
-- 💬 Ask me about **Artificial Intelligences**
+- 💬 Ask me about **Artificial Intelligence**
 
 - ⚡ Fun fact **My idol is Terry Davis.**
 
