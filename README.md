@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shadow</h1>
-<h3 align="center">I am a software developer from Turkey, and I really enjoy low-level programming and electronics.</h3>
+<h3 align="center">I am a Programmer from Turkey, and I really enjoy low-level programming and electronics.</h3>
 
 - 🔭 I’m currently working on [AiraOS and Transformers based AI framework](https://github.com/shadowww345/AiraOS)
 
