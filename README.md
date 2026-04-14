@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [AiraOS and](https://github.com/shadowww345/AiraOS) [Transformers based AI framework(Aira.js)](https://github.com/shadowww345/Aira.js-Preview)
 
-- 🌱 I’m currently learning **Operating System Development**
+- 🌱 I’m currently learning **ARM Assembly**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shadowww345](https://github.com/shadowww345)
 
-- 💬 Ask me about **Artificial Intelligence**
+- 💬 Ask me about **Low level programming**
 
 - ⚡ Fun fact **My idol is Terry Davis.**
 
