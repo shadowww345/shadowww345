@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm shadow</h1>
 <h3 align="center">I am a Programmer from Turkey, and I really enjoy low-level programming and electronics.</h3>
 
-- 🔭 I’m currently working on [AiraOS and](https://github.com/shadowww345/AiraOS) [Transformers based AI framework(Aira.js)](https://github.com/shadowww345/Aira.js-Preview)
+- 🔭 I’m currently working on My Language
 
-- 🌱 I’m currently learning **ARM Assembly**
+- 🌱 I’m currently learning **ARM Assembly** and **ARM Cortex-M Assembly**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shadowww345](https://github.com/shadowww345)
 
