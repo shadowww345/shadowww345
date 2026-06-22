@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Low level programming**
 
-- ⚡ Fun fact **My idol is Terry Davis.**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
