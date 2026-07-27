@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ARM Assembly** and **ARM Cortex-M Assembly**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shadowww345?tab=repositories](Github Repo's)
+- 👨‍💻 All of my projects are available at [https://github.com/shadowww345?tab=repositories](https://github.com/shadowww345?tab=repositories)
 
 - 💬 Ask me about **Low level programming**
 
